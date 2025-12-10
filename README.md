@@ -71,7 +71,7 @@ Breaks down transaction-level performance, including total transaction amount, i
 ## ✨ Author
 
 **Veda Vedhya**
-Finance & Data Aspirant
+|Finance & Data Aspirant|
 
 🔗 **GitHub:** [VEDA-2402](https://github.com/VEDA-2402)  
 💼 **LinkedIn:** [veda-t-8b9a7134a](https://www.linkedin.com/in/veda-t-8b9a7134a/)
