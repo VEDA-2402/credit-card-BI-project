@@ -68,3 +68,16 @@ Breaks down transaction-level performance, including total transaction amount, i
 - Chip vs Swipe vs Online usage comparison  
 
 ---
+## ✨ Author
+
+**Veda Vedhya**
+Finance & Data Aspirant
+
+🔗 **GitHub:** [VEDA-2402](https://github.com/VEDA-2402)  
+💼 **LinkedIn:** [veda-t-8b9a7134a](https://www.linkedin.com/in/veda-t-8b9a7134a/)
+
+---
+
+**If this project helped you, please ⭐ the repository!**
+
+---
